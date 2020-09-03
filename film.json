@@ -1,0 +1,40 @@
+{
+    "Titre1": "Les Minions",
+    "directeur1": "Kyle Balda, Pierre Coffin",
+    "Auteur1": "Brian Lynch,",
+    "Date1": 2015,
+    "Vedette1": [
+      {
+        "Nom": "Sandra Bullock",
+        "Personnage": "Scarlet Overkill (voix)"
+      },
+      {
+        "Nom": "Jon Hamm",
+        "Personnage": "Herb Overkill  (voix)"
+      },
+      {
+        "Nom": "Michael Keaton",
+        "Personnage": "Walter Nelson (voix)"
+      }
+    ]
+  }
+  {
+    "Titre2": "Fight Club",
+    "directeur2": "David Fincher",
+    "Auteur2": "Chuck Palahniuk (novel), Jim Uhls (screenplay)",
+    "Date2": 1999,
+    "Vedette2": [
+      {
+        "Nom": "Brad Pitt",
+        "Personnage": "Tyler Durden(voix)"
+      },
+      {
+        "Nom": "Zach Grenier",
+        "Personnage": "Richard Chesler (voix)"
+      },
+      {
+        "Nom": "David Andrews",
+        "Personnage": "Thomas(voix)"
+      }
+    ]
+  }
