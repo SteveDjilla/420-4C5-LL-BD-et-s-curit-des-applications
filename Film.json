@@ -1,4 +1,4 @@
-{
+{{
     "Titre1": "Les Minions",
     "Titre2": "Fight Club",
     "directeur1": "Kyle Balda, Pierre Coffin",
@@ -36,4 +36,23 @@
       }
     ]
   }
- 
+  {
+    "Titre2": "Fight Club",
+    "directeur2": "David Fincher",
+    "Auteur2": "Chuck Palahniuk (novel), Jim Uhls (screenplay)",
+    "Date2": 1999,
+    "Vedette2": [
+      {
+        "Nom1": "Brad Pitt",
+        "Personnage1": "Tyler Durden(voix)"
+      },
+      {
+        "Nom1": "Zach Grenier",
+        "Personnage1": "Richard Chesler (voix)"
+      },
+      {
+        "Nom1": "David Andrews",
+        "Personnage1": "Thomas(voix)"
+      }
+    ]
+  }
